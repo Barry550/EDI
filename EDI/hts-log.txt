@@ -1,0 +1,286 @@
+HTTrack3.49-2 launched on Tue, 09 Nov 2021 14:46:29 at https://www.arteva.fr/solution-edi/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://www.arteva.fr/solution-edi/ -O "/home/barry/websites/EDI" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:48:02	Warning: 	File not parsed, looks like binary: https://www.arteva.fr/wp-content/themes/unbound/fonts/open-sans-v16-latin-regular.woff2
+14:48:02	Warning: 	File not parsed, looks like binary: https://www.arteva.fr/wp-content/themes/unbound/fonts/open-sans-v16-latin-700.woff2
+14:48:02	Warning: 	File not parsed, looks like binary: https://www.arteva.fr/wp-content/themes/unbound/fonts/open-sans-v16-latin-600.woff2
+14:48:02	Warning: 	File not parsed, looks like binary: https://www.arteva.fr/wp-content/themes/unbound/fonts/fontawesome-webfont.woff2?v=4.7.0
+14:48:06	Warning: 	Moved Permanently for www.arteva.fr/robots.txt
+14:48:06	Warning: 	Redirected link is identical because of 'URL Hack' option: www.arteva.fr/robots.txt and https://www.arteva.fr/robots.txt
+14:48:06	Warning: 	Warning moved treated for www.arteva.fr/robots.txt (real one is https://www.arteva.fr/robots.txt)
+14:48:06	Warning: 	Moved Permanently for www.arteva.fr/
+14:48:06	Warning: 	Redirected link is identical because of 'URL Hack' option: www.arteva.fr/ and https://www.arteva.fr/
+14:48:06	Warning: 	File has moved from www.arteva.fr/ to https://www.arteva.fr/
+14:48:13	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from https://www.arteva.fr/solution-edi/)
+14:48:17	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://www.arteva.fr/solution-edi/)
+14:48:17	Warning: 	Moved Permanently for https://www.arteva.fr/?p=8310
+14:48:17	Warning: 	File has moved from https://www.arteva.fr/?p=8310 to https://www.arteva.fr/solution-edi/
+14:49:09	Warning: 	Warning: store text/html without scan: /home/barry/websites/EDI/gmpg.org/xfn/.html
+14:49:09	Warning: 	Warning: store text/html without scan: /home/barry/websites/EDI/gmpg.org/xfn/intro.html
+14:49:09	Warning: 	Warning: store text/html without scan: /home/barry/websites/EDI/gmpg.org/xfn/faq.html
+14:49:09	Warning: 	Moved Permanently for https://www.arteva.fr/?p=9038
+14:49:09	Warning: 	File has moved from https://www.arteva.fr/?p=9038 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13035
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=13035 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-carrefour/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13055
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=13055 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-auchan/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13063
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=13063 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-systeme-u/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13080
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=13080 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-cora/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13084
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=13084 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-casino/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13089
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=13089 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-leclerc/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13094
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=13094 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-monoprix/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13099
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=13099 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-metro/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=12181
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=12181 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-leroy-merlin/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13103
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=13103 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-castorama/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13108
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=13108 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-mr-bricolage/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13113
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=13113 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-brico-depot/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13119
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=13119 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-samse/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13123
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=13123 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-bosch/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13128
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=13128 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-bricomarche/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13132
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=13132 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-gedimat/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13136
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=13136 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-schneider-electric/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=12969
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=12969 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-airsupply/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13140
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=13140 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-rexel/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13144
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=13144 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-valeo/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13182
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=13182 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/portail-ccas/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13187
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=13187 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/factures-chorus-pro/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13189
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=13189 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/sdi-facture-italie/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13193
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=13193 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/b2apps-ugap/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13148
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=13148 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-galeries-lafayette/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13153
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=13153 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-konen/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13157
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=13157 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-el-corte-ingles/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13165
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=13165 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-printemps/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=12306
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=12306 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-cdiscount/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13382
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=13382 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-3suisses/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=12317
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=12317 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-amazon/
+14:53:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13390
+14:53:14	Warning: 	File has moved from https://www.arteva.fr/?p=13390 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-1001pneus/
+14:53:16	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.arteva.fr/solution-edi/)
+14:53:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): stats.webleads-tracker.com/101165934ns.gif
+14:53:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-content/plugins/radiantthemes-addons/assets/fonts/icofont.woff
+14:53:24	Warning: 	HTML file (77160 bytes) retransferred due to lack of cache: https://www.arteva.fr/wp-content/themes/unbound/fonts/fontawesome-webfont.woff2?v=4.7.0
+14:53:32	Warning: 	HTML file (59729 bytes) retransferred due to lack of cache: https://www.arteva.fr/feed/
+14:53:35	Warning: 	File not parsed, looks like binary: https://www.arteva.fr/wp-content/themes/unbound/fonts/fontawesome-webfont.woff2?v=4.7.0
+14:53:35	Warning: 	HTML file (754 bytes) retransferred due to lack of cache: https://www.arteva.fr/comments/feed/
+14:53:37	Warning: 	HTML file (129498 bytes) retransferred due to lack of cache: https://www.arteva.fr/wp-json/
+14:53:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/8310
+14:53:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/xmlrpc.php?rsd
+14:53:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.google.com/recaptcha/api.js?render=6Ld90ZoUAAAAAGFLG-i64OKpBrq3NwMy-Vrz6Ysa&ver=3.0
+14:53:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-content/cache/min/1/17cbce7ff189c8c2dd6788b05a122e2a.js
+14:53:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/9038
+14:54:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-content/cache/min/1/7f0090f29c367de509254ef37fc7df91.js
+14:54:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/13035
+14:54:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-content/cache/min/1/a2d604b289339ac869eb90c75e7ed5fd.js
+14:54:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/13055
+14:54:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/13063
+14:54:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/13080
+14:54:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/13084
+14:54:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/13089
+14:54:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/13094
+14:54:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/13099
+14:54:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/12181
+14:54:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/13103
+14:54:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/13108
+14:54:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/13113
+14:54:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/13119
+14:54:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/13123
+14:54:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/13128
+14:54:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/13132
+14:54:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/13136
+14:54:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/12969
+14:54:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/13140
+14:54:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/13144
+14:54:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/13187
+14:54:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/13182
+14:55:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/13189
+14:55:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/13193
+14:55:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/13148
+14:55:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/13153
+14:55:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/13157
+14:55:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/13165
+14:55:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/12306
+14:55:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-content/cache/min/1/43dfe08d60ff4bc3a1d10dacf1f5590b.js
+14:55:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/13382
+14:55:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/12317
+14:55:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.arteva.fr/wp-json/wp/v2/pages/13390
+14:55:31	Warning: 	HTML file (736 bytes) retransferred due to lack of cache: www.arteva.fr/
+14:55:33	Warning: 	Moved Permanently for www.arteva.fr/
+14:55:33	Warning: 	Redirected link is identical because of 'URL Hack' option: www.arteva.fr/ and https://www.arteva.fr/
+14:55:33	Warning: 	File has moved from www.arteva.fr/ to https://www.arteva.fr/
+14:55:33	Warning: 	HTML file (771 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=8310
+14:55:34	Warning: 	Moved Permanently for https://www.arteva.fr/?p=8310
+14:55:34	Warning: 	File has moved from https://www.arteva.fr/?p=8310 to https://www.arteva.fr/solution-edi/
+14:55:34	Warning: 	Retry after error -5 (Unable to get server's address: Name or service not known) at link https://themes.radiantthemes.com/unbound-datadump/wp-content/themes/unbound/images/404-Error-Style-One-Background-Image.png (from https://www.arteva.fr/solution-edi/)
+14:55:35	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://themes.radiantthemes.com/unbound-datadump/wp-content/themes/unbound/images/Maintenance-More-Style-One-Image.png (from https://www.arteva.fr/solution-edi/)
+14:55:35	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://themes.radiantthemes.com/unbound-datadump/wp-content/themes/unbound/images/Maintenance-More-Style-Two-Image.png (from https://www.arteva.fr/solution-edi/)
+14:55:35	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://themes.radiantthemes.com/unbound-datadump/wp-content/themes/unbound/images/Maintenance-More-Style-Three-Image.png (from https://www.arteva.fr/solution-edi/)
+14:55:35	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://themes.radiantthemes.com/unbound-datadump/wp-content/themes/unbound/images/Coming-Soon-Style-One-Background-Image.png (from https://www.arteva.fr/solution-edi/)
+14:55:35	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://themes.radiantthemes.com/unbound-datadump/wp-content/themes/unbound/images/Coming-Soon-Style-Two-Background-Image.png (from https://www.arteva.fr/solution-edi/)
+14:55:35	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://themes.radiantthemes.com/unbound-datadump/wp-content/themes/unbound/images/Coming-Soon-Style-Three-Background-Image.png (from https://www.arteva.fr/solution-edi/)
+14:55:35	Warning: 	HTML file (211138 bytes) retransferred due to lack of cache: https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/
+14:55:40	Warning: 	Warning: store text/css without scan: /home/barry/websites/EDI/gmpg.org/xfn/default.css
+14:55:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://fonts.googleapis.com/css?family=Rubik%3A300%2C400%2C500%2C700%2C900%2C300italic%2C400italic%2C500italic%2C700italic%2C900italic%7CPoppins%3A400%7COpen%20Sans%3A300%2C400%2C600%2C700%2C800%2C300italic%2C400italic%2C600italic%2C700italic%2C800italic&display=swap
+14:55:42	Warning: 	HTML file (825 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=9038
+14:55:44	Warning: 	Moved Permanently for https://www.arteva.fr/?p=9038
+14:55:44	Warning: 	File has moved from https://www.arteva.fr/?p=9038 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/
+14:55:44	Warning: 	HTML file (136730 bytes) retransferred due to lack of cache: https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-auchan/
+14:55:52	Warning: 	HTML file (134031 bytes) retransferred due to lack of cache: https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-systeme-u/
+14:55:56	Warning: 	HTML file (133851 bytes) retransferred due to lack of cache: https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-leclerc/
+14:56:00	Warning: 	HTML file (133754 bytes) retransferred due to lack of cache: https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-bosch/
+14:56:07	Warning: 	HTML file (133802 bytes) retransferred due to lack of cache: https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-gedimat/
+14:56:14	Warning: 	HTML file (133882 bytes) retransferred due to lack of cache: https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-rexel/
+14:56:22	Warning: 	HTML file (134441 bytes) retransferred due to lack of cache: https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-galeries-lafayette/
+14:56:33	Warning: 	HTML file (133728 bytes) retransferred due to lack of cache: https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-konen/
+14:56:39	Warning: 	HTML file (134203 bytes) retransferred due to lack of cache: https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-printemps/
+14:57:34	Warning: 	HTML file (855 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13035
+14:57:36	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13035
+14:57:36	Warning: 	File has moved from https://www.arteva.fr/?p=13035 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-carrefour/
+14:57:36	Warning: 	HTML file (849 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13055
+14:57:38	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13055
+14:57:38	Warning: 	File has moved from https://www.arteva.fr/?p=13055 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-auchan/
+14:57:38	Warning: 	HTML file (855 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13063
+14:57:43	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13063
+14:57:43	Warning: 	File has moved from https://www.arteva.fr/?p=13063 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-systeme-u/
+14:57:43	Warning: 	HTML file (845 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13080
+14:57:46	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13080
+14:57:46	Warning: 	File has moved from https://www.arteva.fr/?p=13080 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-cora/
+14:57:46	Warning: 	HTML file (849 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13084
+14:57:50	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13084
+14:57:50	Warning: 	File has moved from https://www.arteva.fr/?p=13084 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-casino/
+14:57:50	Warning: 	HTML file (851 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13089
+14:57:54	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13089
+14:57:54	Warning: 	File has moved from https://www.arteva.fr/?p=13089 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-leclerc/
+14:57:54	Warning: 	HTML file (853 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13094
+14:58:04	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13094
+14:58:04	Warning: 	File has moved from https://www.arteva.fr/?p=13094 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-monoprix/
+14:58:04	Warning: 	HTML file (847 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13099
+14:58:07	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13099
+14:58:07	Warning: 	File has moved from https://www.arteva.fr/?p=13099 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-metro/
+14:58:07	Warning: 	HTML file (861 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=12181
+14:58:11	Warning: 	Moved Permanently for https://www.arteva.fr/?p=12181
+14:58:11	Warning: 	File has moved from https://www.arteva.fr/?p=12181 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-leroy-merlin/
+14:58:11	Warning: 	HTML file (855 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13103
+14:58:15	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13103
+14:58:15	Warning: 	File has moved from https://www.arteva.fr/?p=13103 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-castorama/
+14:58:15	Warning: 	HTML file (861 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13108
+14:58:30	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.arteva.fr/?p=13108 (from https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-mr-bricolage/)
+14:58:30	Warning: 	HTML file (859 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13113
+14:58:30	Warning: 	HTML file (861 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13108
+14:58:34	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13113
+14:58:34	Warning: 	File has moved from https://www.arteva.fr/?p=13113 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-brico-depot/
+14:58:34	Warning: 	HTML file (847 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13119
+14:58:39	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13119
+14:58:39	Warning: 	File has moved from https://www.arteva.fr/?p=13119 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-samse/
+14:58:39	Warning: 	HTML file (847 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13123
+14:58:43	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13123
+14:58:43	Warning: 	File has moved from https://www.arteva.fr/?p=13123 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-bosch/
+14:58:43	Warning: 	HTML file (859 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13128
+14:58:52	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13128
+14:58:52	Warning: 	File has moved from https://www.arteva.fr/?p=13128 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-bricomarche/
+14:58:52	Warning: 	HTML file (851 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13132
+14:58:59	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13132
+14:58:59	Warning: 	File has moved from https://www.arteva.fr/?p=13132 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-gedimat/
+14:58:59	Warning: 	HTML file (873 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13136
+14:59:04	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13136
+14:59:04	Warning: 	File has moved from https://www.arteva.fr/?p=13136 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-schneider-electric/
+14:59:04	Warning: 	HTML file (855 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=12969
+14:59:08	Warning: 	Moved Permanently for https://www.arteva.fr/?p=12969
+14:59:08	Warning: 	File has moved from https://www.arteva.fr/?p=12969 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-airsupply/
+14:59:08	Warning: 	HTML file (847 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13140
+14:59:11	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13140
+14:59:11	Warning: 	File has moved from https://www.arteva.fr/?p=13140 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-rexel/
+14:59:11	Warning: 	HTML file (847 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13144
+14:59:19	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13144
+14:59:19	Warning: 	File has moved from https://www.arteva.fr/?p=13144 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-valeo/
+14:59:19	Warning: 	HTML file (853 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13182
+14:59:44	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.arteva.fr/?p=13182 (from https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/portail-ccas/)
+14:59:44	Warning: 	HTML file (853 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13182
+14:59:44	Warning: 	HTML file (867 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13187
+14:59:54	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13187
+14:59:54	Warning: 	File has moved from https://www.arteva.fr/?p=13187 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/factures-chorus-pro/
+14:59:54	Warning: 	HTML file (865 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13189
+14:59:59	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13189
+14:59:59	Warning: 	File has moved from https://www.arteva.fr/?p=13189 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/sdi-facture-italie/
+14:59:59	Warning: 	HTML file (851 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13193
+15:00:04	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13193
+15:00:04	Warning: 	File has moved from https://www.arteva.fr/?p=13193 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/b2apps-ugap/
+15:00:04	Warning: 	HTML file (873 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13148
+15:00:11	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13148
+15:00:11	Warning: 	File has moved from https://www.arteva.fr/?p=13148 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-galeries-lafayette/
+15:00:11	Warning: 	HTML file (847 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13153
+15:00:14	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13153
+15:00:14	Warning: 	File has moved from https://www.arteva.fr/?p=13153 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-konen/
+15:00:14	Warning: 	HTML file (867 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13157
+15:00:18	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13157
+15:00:18	Warning: 	File has moved from https://www.arteva.fr/?p=13157 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-el-corte-ingles/
+15:00:18	Warning: 	HTML file (855 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13165
+15:00:21	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13165
+15:00:21	Warning: 	File has moved from https://www.arteva.fr/?p=13165 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-printemps/
+15:00:21	Warning: 	HTML file (855 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=12306
+15:00:24	Warning: 	Moved Permanently for https://www.arteva.fr/?p=12306
+15:00:24	Warning: 	File has moved from https://www.arteva.fr/?p=12306 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-cdiscount/
+15:00:24	Warning: 	HTML file (853 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13382
+15:00:28	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13382
+15:00:28	Warning: 	File has moved from https://www.arteva.fr/?p=13382 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-3suisses/
+15:00:28	Warning: 	HTML file (849 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=12317
+15:00:31	Warning: 	Moved Permanently for https://www.arteva.fr/?p=12317
+15:00:31	Warning: 	File has moved from https://www.arteva.fr/?p=12317 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-amazon/
+15:00:31	Warning: 	HTML file (855 bytes) retransferred due to lack of cache: https://www.arteva.fr/?p=13390
+15:00:37	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13390
+15:00:37	Warning: 	File has moved from https://www.arteva.fr/?p=13390 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-1001pneus/
+15:00:37	Error: 	"Not Found" (404) at link https://www.arteva.fr/wp-content/themes/unbound/images/blog-001-footer-icons.png (from https://www.arteva.fr/wp-content/cache/min/1/1f692784e4806fc51aae043288d77900.css)
+15:00:37	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://themes.radiantthemes.com/unbound-datadump/wp-content/themes/unbound/images/404-Error-Style-One-Background-Image.png (from https://www.arteva.fr/solution-edi/)
+15:00:37	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://themes.radiantthemes.com/unbound-datadump/wp-content/themes/unbound/images/Maintenance-More-Style-One-Image.png (from https://www.arteva.fr/solution-edi/)
+15:00:37	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://themes.radiantthemes.com/unbound-datadump/wp-content/themes/unbound/images/Maintenance-More-Style-Two-Image.png (from https://www.arteva.fr/solution-edi/)
+15:00:37	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://themes.radiantthemes.com/unbound-datadump/wp-content/themes/unbound/images/Maintenance-More-Style-Three-Image.png (from https://www.arteva.fr/solution-edi/)
+15:00:37	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://themes.radiantthemes.com/unbound-datadump/wp-content/themes/unbound/images/Coming-Soon-Style-One-Background-Image.png (from https://www.arteva.fr/solution-edi/)
+15:00:37	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://themes.radiantthemes.com/unbound-datadump/wp-content/themes/unbound/images/Coming-Soon-Style-Two-Background-Image.png (from https://www.arteva.fr/solution-edi/)
+15:00:37	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://themes.radiantthemes.com/unbound-datadump/wp-content/themes/unbound/images/Coming-Soon-Style-Three-Background-Image.png (from https://www.arteva.fr/solution-edi/)
+15:00:37	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13108
+15:00:37	Warning: 	File has moved from https://www.arteva.fr/?p=13108 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/edi-mr-bricolage/
+15:00:37	Warning: 	Moved Permanently for https://www.arteva.fr/?p=13182
+15:00:37	Warning: 	File has moved from https://www.arteva.fr/?p=13182 to https://www.arteva.fr/solution-edi/plateforme-edi-partenaires/portail-ccas/
+15:00:37	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://themes.radiantthemes.com/unbound-datadump/wp-content/themes/unbound/images/404-Error-Style-One-Background-Image.png (from https://www.arteva.fr/solution-edi/)
+15:00:37	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://themes.radiantthemes.com/unbound-datadump/wp-content/themes/unbound/images/Maintenance-More-Style-One-Image.png (from https://www.arteva.fr/solution-edi/)
+15:00:37	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://themes.radiantthemes.com/unbound-datadump/wp-content/themes/unbound/images/Maintenance-More-Style-Two-Image.png (from https://www.arteva.fr/solution-edi/)
+15:00:37	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://themes.radiantthemes.com/unbound-datadump/wp-content/themes/unbound/images/Maintenance-More-Style-Three-Image.png (from https://www.arteva.fr/solution-edi/)
+15:00:37	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://themes.radiantthemes.com/unbound-datadump/wp-content/themes/unbound/images/Coming-Soon-Style-One-Background-Image.png (from https://www.arteva.fr/solution-edi/)
+15:00:37	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://themes.radiantthemes.com/unbound-datadump/wp-content/themes/unbound/images/Coming-Soon-Style-Two-Background-Image.png (from https://www.arteva.fr/solution-edi/)
+15:00:37	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://themes.radiantthemes.com/unbound-datadump/wp-content/themes/unbound/images/Coming-Soon-Style-Three-Background-Image.png (from https://www.arteva.fr/solution-edi/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 minutes 8 seconds : 387 links scanned, 377 files written (32336438 bytes overall) [20668111 bytes received at 24372 bytes/sec], 17650531 bytes transferred using HTTP compression in 79 files, ratio 32%, 4.8 requests per connection
+(11 errors, 264 warnings, 0 messages)
